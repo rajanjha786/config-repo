@@ -1,2 +1,4 @@
 polar:
     greeting: "Welcome to catalog from the config server default"
+    testdata:
+        enabled: true
